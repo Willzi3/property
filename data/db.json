@@ -1,0 +1,55 @@
+{
+
+"Properties":[
+    {
+        "title": "Modern Apartments",
+        "area": "Cape Town",
+        "bedrooms": "5",
+        "id": "1",
+        "image": "https://picsum.photos/200/300?random=1"
+
+    },
+    {
+        "title": "Revamped Apartment",
+        "area": "Clifton",
+        "bedrooms": "6",
+        "id": "2",
+        "image": "https://picsum.photos/200/300?random=2"
+
+
+
+    },
+    {
+        "title": "Modern Apartments",
+        "area": "Cape Town",
+        "bedrooms": "5",
+        "id": "3",
+        "image": "https://picsum.photos/200/300?random=3"
+
+    },
+    {
+        "title": "Houses",
+        "area": "Llandudno",
+        "bedrooms": "5",
+        "id": "4",
+        "image": "https://picsum.photos/200/300?random=4"
+
+    },
+    {
+        "title": "Modern Apartments",
+        "area": "Cape Town",
+        "bedrooms": "5",
+        "id": "5",
+        "image": "https://picsum.photos/200/300?random=5"
+
+    },
+    {
+        "title": "Modern Apartments",
+        "area": "Cape Town",
+        "bedrooms": "5",
+        "id": "6",
+        "image": "https://picsum.photos/200/300?random=6"
+
+    }
+]
+}
