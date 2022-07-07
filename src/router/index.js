@@ -21,6 +21,11 @@ const routes = [
     component: () => import("../views/Properties.vue"),
   },
   {
+    path: '/properties/:id',
+    name: 'PropertyDetails',
+    component: () => import("../views/PropertyDetails.vue"),
+  },
+  {
     path: '/admin',
     name: 'Admin',
     component: () =>("../views/Admin.vue"),

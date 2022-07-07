@@ -1,6 +1,6 @@
 <template>
     <div>
-        admin page
+        <h1>admin page</h1>
     </div>
 </template>
 <script>

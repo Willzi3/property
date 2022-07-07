@@ -50,6 +50,38 @@
         "id": "6",
         "image": "https://picsum.photos/200/300?random=6"
 
+    },
+    {
+        "title": "Modern Apartments",
+        "area": "Cape Town",
+        "bedrooms": "5",
+        "id": "7",
+        "image": "https://picsum.photos/200/300?random=7"
+
+    },
+    {
+        "title": "Modern Apartments",
+        "area": "Cape Town",
+        "bedrooms": "5",
+        "id": "8",
+        "image": "https://picsum.photos/200/300?random=8"
+
+    },
+    {
+        "title": "Modern Apartments",
+        "area": "Cape Town",
+        "bedrooms": "5",
+        "id": "9",
+        "image": "https://picsum.photos/200/300?random=9"
+
+    },
+    {
+        "title": "Modern Apartments",
+        "area": "Cape Town",
+        "bedrooms": "5",
+        "id": "10",
+        "image": "https://picsum.photos/200/300?random=10"
+
     }
 ]
 }

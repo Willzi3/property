@@ -1,6 +1,6 @@
 <template>
    <div class="card-display">
-    <PropertyCard v-for="property in Properties" :key="property.id " :property="property"/>
+   <PropertyCard v-for="property in Properties" :key="property.id " :property="property"/>
     <!-- <div v-for="property in Properties" :key="property.id" class="card">
     <div class="cards">
         <img :src="property.image">
@@ -37,6 +37,7 @@ export default {
     padding: 20px;
     box-shadow: 10px 10px 10px 10px lightgrey;
     border-radius: 10px;
+    background: white;
 }
 .card h2{
     font-size: 1rem;
@@ -53,8 +54,8 @@ export default {
         padding: 20px;
 
     }
-    .cards:hover{
-        box-shadow: 10px 10px 10px 10px lightslategray;
+    .card:hover{
+        box-shadow: 10px 10px 10px 10px #42b983;
         transition: 0.5s all ease-in-out;
     }
     .card-display{
@@ -64,8 +65,6 @@ export default {
     align-items: center;
     padding: 10px;
     flex-wrap: wrap;
-    margin-top: 200px;
-    background-image: url(./images/C:\Users\Admin\Vue\vue-navbar\images\aditya-chinchure-S1ToogvRvlU-unsplash.jpg);
     }
     img{
         position: relative;
@@ -78,14 +77,14 @@ export default {
        top: 0;
        left: 0;
        width: 100%;
-       background: lightslategray;
+       background: #42b983;
        z-index: 100;
     }
+    nav a.router-link-exact-active {
+    color: white;
+}
     #app{
-        height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-   
+            margin-top: 100px;
     }
+    
 </style>
